@@ -18,10 +18,18 @@ changes are for a logical change.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Experimental features, new features, and fixing bugs. Also when working on a feature but discover a bug. Then I can switch to work on the bug and then come back to work on the new feature. Also, provide a way to work on other development works within the project when feeling boring in current task. The new development is on the branches and the master branch is stable all the time.  
+
 How do the diagrams help you visualize the branch structure?
+
+It shows the time order of the commits from a branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+After merging, all the changes from two branches are combined into one branch. The diagram shows the parent of each commit. With that we can easily find the changes from the parent to the child commit.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+save time.

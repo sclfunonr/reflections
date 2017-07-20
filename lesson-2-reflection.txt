@@ -9,6 +9,12 @@ The staging area is the media stage that files will be added and pushed to the r
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I can do "git diff --staged" to find out the difference between the 
+staging area and the repository. I can also do git status to find 
+out the changes to be committed. That way I can evaluate if those
+changes are for a logical change.
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 

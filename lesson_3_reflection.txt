@@ -18,7 +18,8 @@ of a project.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    If the remote has been updated, the local copy of the remote is the way to 
+find out the state of the remote before its new update. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?

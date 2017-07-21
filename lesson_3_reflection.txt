@@ -24,7 +24,7 @@ find out the state of the remote before its new update.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Email or go to talk to the people involved. Collaborate with Git or GitHub is easier.  
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
